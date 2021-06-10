@@ -7,5 +7,5 @@
 
 ### 📫 Reach me at 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arturlbg31@gmail.com)](arturlbg31@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-luis-273a1817a/)](https://www.linkedin.com/in/artur-luis-273a1817a/)
 

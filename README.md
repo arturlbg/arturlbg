@@ -5,8 +5,8 @@
 </a>
 
 
+
 - 🤖 I am a data science and AI student at the Federal University of Paraíba
 - 🐍 Living and programming in Python and C
-- 📲 Currently developing Tina.
-- 👯 Currently learning relational database in SQL
+- 📲 Currently developing Tina and learning relational database in SQL
 - ❤️ A love of data analysis, blockchain games and cryptocurrencies(hold shiba!!!)

@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 <a href="https://www.linkedin.com/in/artur-luis-273a1817a/">
-  <img align="left" alt="Artur Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Artur Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 

@@ -7,9 +7,5 @@
 
 ### 📫 Reach me at 
 
-[![Linkedin Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/artur-luis-273a1817a/)](https://www.linkedin.com/in/artur-luis-273a1817a/)
-[![Gmail Badge]	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arturlbg31@gmail.com)](mailto:arturlbg31@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arturlbg31@gmail.com)](arturlbg31@gmail.com)
 
-<a href="https://www.linkedin.com/in/artur-luis-273a1817a/">
-  <img align="center" alt="Artur Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>

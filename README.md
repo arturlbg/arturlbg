@@ -2,8 +2,8 @@
 
 - 🤖 I am a data science and AI student at the Federal University of Paraíba.
 - 🐍 Living and programming in **Python and C**.
-- 📲 Currently developing **Tina**(android app)
-- 📔 Knowledge in **SQL, PowerBI, JavaScript**.
+- 📲 I am a Kivy enjoyer.
+- 📔 Knowledge in **Javascript, HTML, CSS, SQL and PowerBi**.
 - ❤️ A love of **data analysis**, **blockchain games** and **cryptocurrencies**.
 
 ### 📫 Reach me at 

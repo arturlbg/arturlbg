@@ -1,6 +1,6 @@
 ### Hey there, fellow 👋
 
-- 🤖 I am a data science and AI student at the Federal University of Paraíba.
+- <img width="18" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Graduating in Data Science and Artificial Intelligence by UFPB
 - 🐍 Living and programming in **Python and C**.
 - 📲 I am a Kivy enjoyer.
 - 📔 Knowledge in **Javascript, HTML, CSS, SQL and PowerBi**.

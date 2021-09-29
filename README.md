@@ -33,7 +33,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/arturlbg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arturlbg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arturlbg&layout=compact&langs_count=8&theme=algolia"/>
@@ -42,7 +42,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="right">
 <a href="https://linkedin.com/in/arturlbg"><img src="https://img.shields.io/badge/-Artur%20Luis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arturlbg31@gmail.com"><img src="https://img.shields.io/badge/-arturlbg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/arturluis7"><img src="https://img.shields.io/badge/-@arturluis7-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>

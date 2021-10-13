@@ -44,6 +44,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/arturlbg"><img src="https://img.shields.io/badge/-Artur%20Luis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:arturlbg31@gmail.com"><img src="https://img.shields.io/badge/-arturlbg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:arturlbg31@gmail.com"><img src="https://img.shields.io/badge/-arturlbg31@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/arturluis7"><img src="https://img.shields.io/badge/-@arturluis7-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>

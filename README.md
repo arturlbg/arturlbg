@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to do data analysis, manipulating data, generating insights, I really appreciate it.\
+:computer: Intern full stack developer (react(front), spring(back) and SAP Hana SQL(database)).\
 🎓 &nbsp;I'm currently studying Data Science and Artificial Intelligence at the University of Paraíba :brazil:.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Big Data.\
+🌱 &nbsp;I'm on track for learning more about Software Development.\
 ✍️ &nbsp;In my free time, I like to study everything about the NFT world and Cryptocurrencies.\
 💬 &nbsp;Feel free to contact me.\
 ✉️ &nbsp;You can shoot me an email at arturlbg31@gmail.com! I'll try to respond as soon as I can.
@@ -22,6 +22,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)

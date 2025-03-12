@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-:computer:  Intern full stack developer javascript/typescrip(react), springboot(java) and SAP Hana SQL.\
+:computer:  Software Developer -> React, Spring, Clojure and Sap Hana SQL.\
 🎓 &nbsp;I'm currently studying Data Science and Artificial Intelligence at the University of Paraíba :brazil:.\
 🌱 &nbsp;I'm on track for learning more about Software Development.\
 ✍️ &nbsp;In my free time, I like to study everything about the NFT world and Cryptocurrencies.\

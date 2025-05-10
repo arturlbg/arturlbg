@@ -1,23 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="27.0.3">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1354" dy="981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1188" dy="654" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-1" value="Process Bar" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#BABABA;points=[];verticalAlign=middle;stackBorder=10;stackSpacing=-10;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="219" y="111" width="390" height="100" as="geometry" />
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;1&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="86" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-2" value="Step 1" style="shape=step;perimeter=stepPerimeter;strokeColor=#6C8EBF;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="10" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="166" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-3" value="Step 2" style="shape=step;perimeter=stepPerimeter;strokeColor=#82B366;fontFamily=Helvetica;fontSize=14;fontColor=#82B366;fillColor=#d5e8d4;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="100" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="246" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-4" value="Step 3" style="shape=step;perimeter=stepPerimeter;strokeColor=#D6B656;fontFamily=Helvetica;fontSize=14;fontColor=#D6B656;fillColor=#fff2cc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="190" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-4" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="326" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="Step 4" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="280" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;5&lt;/font&gt;&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="406" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#10739E&quot;&gt;Coleta dos Dados&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Buscar dados educacionais(IDEB, ENEM, despesas) de diversas fontes&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="372" y="86" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#F2931E&quot;&gt;Limpeza dos Dados&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Corrigir erros, lidar com informações faltantes, padronizar.&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="372" y="166" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-8" value="&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ae4132&quot;&gt;&lt;b&gt;Criação de Tabelas no Banco&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ae4132&quot;&gt;&lt;b&gt;de Dados&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;b&gt;Criar tabelas para o armazenamento dos dados de acordo com os tipos das colunas.&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="372" y="246" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#23445D&quot;&gt;Persistência no Banco de Dados&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Armazenar informações no banco para uso posterior.&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="372" y="326" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Formulação das Views&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Implementar modelos para visualização dos dados para simplificar as consultas.&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="372" y="406" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;6&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="486" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 12px; color: light-dark(rgb(74, 137, 12), rgb(74, 137, 12));&quot;&gt;Implementação da API&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Desenvolver interface para recuperar e expor os dados das Views.&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="372" y="491" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-18" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;7&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="570" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#12AAB5&quot;&gt;Criação da Interface&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Criar elementos de gráfico, filtro, mapa.&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="372" y="575" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-22" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;8&lt;/b&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="658" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9jmcAp48-CgpIdn1kDd-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px; color: rgb(255, 51, 51);&quot;&gt;Deploy da Aplicação&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;Criar elementos de gráfico, filtro, mapa.&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="372" y="663" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

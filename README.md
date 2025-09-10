@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 :computer:  Software Developer -> React, Spring, Clojure and Sap Hana SQL.\
-🎓 &nbsp;I'm currently studying Data Science and Artificial Intelligence at the University of Paraíba :brazil:.\
-🌱 &nbsp;I'm on track for learning more about Software Development.\
+🎓 &nbsp;Graduated in Data Science and Artificial Intelligence from the University of Paraíba :brazil:.\
+🌱 &nbsp;Continuously learning and deepening expertise in Software Development and System Architecture.\
 ✍️ &nbsp;In my free time, I like to study everything about the NFT world and Cryptocurrencies.\
 💬 &nbsp;Feel free to contact me.\
 ✉️ &nbsp;You can shoot me an email at arturlbg31@gmail.com! I'll try to respond as soon as I can.

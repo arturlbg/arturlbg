@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-:computer:  Software Developer -> React, Spring, Clojure and Sap Hana SQL.\
+:computer:  Software Developer -> Currently working with Spring, Angular and AWS ecosystem.\
 🎓 &nbsp;Graduated in Data Science and Artificial Intelligence from the University of Paraíba :brazil:.\
 🌱 &nbsp;Continuously learning and deepening expertise in Software Development and System Architecture.\
 ✍️ &nbsp;In my free time, I like to study everything about the NFT world and Cryptocurrencies.\

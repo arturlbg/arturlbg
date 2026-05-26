@@ -4,42 +4,21 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-:computer:  Software Developer -> Currently working with Spring, Angular and AWS ecosystem.\
-🎓 &nbsp;Graduated in Data Science and Artificial Intelligence from the University of Paraíba :brazil:.\
-🌱 &nbsp;Continuously learning and deepening expertise in Software Development and System Architecture.\
-✍️ &nbsp;In my free time, I like to study everything about the NFT world and Cryptocurrencies.\
-💬 &nbsp;Feel free to contact me.\
-✉️ &nbsp;You can shoot me an email at arturlbg31@gmail.com! I'll try to respond as soon as I can.
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack 
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br>
-<br>
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/arturlbg">
-  &nbsp<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arturlbg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arturlbg&layout=compact&langs_count=8&theme=algolia"/>
+<div>
+  <h1>Hello there! 👋</h1>
+  <a href="https://twitter.com/aethelingaeg">
+  <img align="left" alt="Yan Pitangui | Twitter" width="35px" src="icons/twitter.svg" />
 </a>
+<a href="https://www.linkedin.com/in/yanpitangui/">
+  <img align="left" alt="Yan Pitangui's LinkedIN" width="35px" src="icons/linkedin.svg" />
+</a>
+  <br/>
+  <br/>
+  <p>
+    Hello, I’m Yan Pitangui, a software engineer from Brazil.
 </p>
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
